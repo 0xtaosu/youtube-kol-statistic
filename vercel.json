@@ -1,0 +1,12 @@
+{
+    "functions": {
+        "app/api/analyze/route.ts": {
+            "maxDuration": 30
+        }
+    },
+    "env": {
+        "RAPIDAPI_KEY": "@rapidapi_key",
+        "DEEPSEEK_API_KEY": "@deepseek_api_key",
+        "DEEPSEEK_BASE_URL": "@deepseek_base_url"
+    }
+}
